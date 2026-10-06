@@ -43,11 +43,6 @@ Zaptro is a front-end e-commerce application where users can browse electronics,
 | Linting         | Oxlint            |
 | Deployment      | Vercel            |
 
-## 📸 Screenshots
-
-| Home | Product Details |
-| ---- | --------------- |
-| ![Home](./screenshots/home.png) | ![Product](./screenshots/product.png) |
 
 ## 📁 Project Structure
 
