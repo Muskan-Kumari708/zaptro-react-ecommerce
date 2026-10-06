@@ -33,7 +33,7 @@ function Navbar({location, getlocation,openDropdown,setOpenDropdown}) {
                         <span className='font-semibold'>{location ? <div className='-space-y-2'>
                             <p>{location.county}</p>
                             <p>{location.state}</p>
-                        </div> : "Add Adress"}</span>
+                        </div> : "Add Address"}</span>
                         <FaCaretDown onClick={toggleDropdown} />
 
                     </div>
